@@ -25,10 +25,6 @@ A lightweight Chrome extension that sums all video durations visible on a YouTub
 4. Click **Load unpacked** and select the extension folder.
 5. The extension icon will appear in the toolbar.
 
-### From the Chrome Web Store (coming soon)
-
-*(Link will be added once published.)*
-
 ## 🧪 Usage
 
 1. Navigate to any YouTube page that lists videos (e.g., a playlist, a channel's "Videos" tab, search results).
