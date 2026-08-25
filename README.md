@@ -4,7 +4,9 @@
 
 A lightweight Chrome extension that sums all video durations visible on a YouTube page (playlist, channel, search results, etc.) and displays the total in **HH:MM:SS** or **MM:SS** format.
 
-![Screenshot placeholder](screenshot.png)
+<img width="1775" height="987" alt="image" src="https://github.com/user-attachments/assets/93de8d68-9407-4eb2-b5d9-b34c212061b4" />
+
+
 
 ## ✨ Features
 
