@@ -47,8 +47,11 @@ The extension injects a small script into the YouTube page. It:
 ## 📁 File Structure
 
 ├── manifest.json – Extension manifest (MV3)
+
 ├── popup.html – The popup UI
+
 ├── popup.js – Popup logic + injected function
+
 └── README.md – This file
 
 ### Prerequisites
