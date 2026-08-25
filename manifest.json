@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Duration Sum",
+  "version": "1.0.0",
+  "description": "Sum all video durations on a YouTube page (playlist, channel, search) with one click.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Sum durations"
+  },
+  "host_permissions": [
+    "https://www.youtube.com/*"
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
